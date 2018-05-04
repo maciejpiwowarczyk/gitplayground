@@ -8,7 +8,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
 
             // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit. More...");
+            Console.WriteLine("Press any key to exit. More... Even more...");
+            Console.WriteLine("Press any key to exit. More... Even more...");
             Console.ReadKey();
         }
     }

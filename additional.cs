@@ -10,6 +10,7 @@ namespace HelloWorld
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit. More... Even more...");
             Console.WriteLine("Press any key to exit. More... Even more...");
+			Console.WriteLine("...");
 			Console.WriteLine("abc");
 			Console.WriteLine("def");
             Console.ReadKey();

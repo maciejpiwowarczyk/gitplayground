@@ -7,6 +7,7 @@ namespace HelloWorld
         {
             AddtionalClass.HelloLogic();
 			//another comment
+			//new comment
         }
     }
 }

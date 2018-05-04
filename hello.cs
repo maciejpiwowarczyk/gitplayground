@@ -6,6 +6,7 @@ namespace HelloWorld
         static void Main() 
         {
             AddtionalClass.HelloLogic();
+			//another comment
         }
     }
 }
